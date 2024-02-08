@@ -1,0 +1,7 @@
+﻿  bitset.cpp
+C:\Users\Makovey\VS community\repos\bitset-main\BiteMassive\bitset.cpp(5,15): error C2084: функция "mybitset::BitArray::BitArray(void)" уже имеет текст реализации
+C:\Users\Makovey\VS community\repos\bitset-main\BiteMassive\bitset.h(16,3): message : см. предыдущее определение "{ctor}"
+C:\Users\Makovey\VS community\repos\bitset-main\BiteMassive\bitset.cpp(106,40): warning C4552: "&": результат выражения не используется
+C:\Users\Makovey\VS community\repos\bitset-main\BiteMassive\bitset.cpp(110,44): warning C4552: "|": результат выражения не используется
+C:\Users\Makovey\VS community\repos\bitset-main\BiteMassive\bitset.cpp(125,33): warning C4805: &: небезопасное смешение типа "unsigned int" и типа "bool" в операции
+C:\Users\Makovey\VS community\repos\bitset-main\BiteMassive\bitset.cpp(125,31): warning C4552: "&": результат выражения не используется

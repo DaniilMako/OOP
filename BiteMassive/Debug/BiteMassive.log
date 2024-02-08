@@ -1,0 +1,6 @@
+﻿  bitset.cpp
+C:\Users\Cаша\source\repos\BiteMassive\bitset.cpp(22,3): error C2561: mybitset::BitArray::operator =: функция должна возвращать значение
+C:\Users\Cаша\source\repos\BiteMassive\bitset.cpp(20): message : см. объявление "mybitset::BitArray::operator ="
+  Source.cpp
+  Создание кода...
+C:\Users\Cаша\source\repos\BiteMassive\Source.cpp(15): error C4700: использована неинициализированная локальная переменная "test"
