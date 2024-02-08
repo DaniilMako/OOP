@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Module3.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Makovey\\VS community\\repos\\dz5\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Makovey\\VS community\\repos\\dz5\\x64\\Debug\\Module3.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Module3",
+                    "source-path": "c:\\users\\makovey\\vs community\\repos\\dz5\\module3.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
