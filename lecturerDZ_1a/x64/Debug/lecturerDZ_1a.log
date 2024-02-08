@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(32,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(81,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(97,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(98,20): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(121,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(173,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(243,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(268,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Makovey\VS community\Git\lecturerDZ_1a\main.cpp(283,30): warning C4018: <: несоответствие типов со знаком и без знака
+  lecturerDZ_1a.vcxproj -> C:\Users\Makovey\VS community\Git\lecturerDZ_1a\x64\Debug\lecturerDZ_1a.exe
