@@ -1,0 +1,2 @@
+C:\Users\Makovey\source\repos\dz_number_phone\x64\Debug\dz_number_phone.exe
+C:\Users\Makovey\VS community\repos\dz_number_phone\x64\Debug\dz_number_phone.exe

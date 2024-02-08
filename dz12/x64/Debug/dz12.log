@@ -1,0 +1,16 @@
+﻿  Source1.cpp
+C:\Users\Makovey\VS community\repos\dz12\Source1.cpp(13,50): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\Makovey\VS community\repos\dz12\Source1.cpp(13,50):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Makovey\VS community\repos\dz12\Source1.cpp(32,26):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "LinearAllocator<int>"
+  	C:\Users\Makovey\VS community\repos\dz12\Source1.cpp(12,8):
+  	во время компиляции функции-члена класс шаблон "T *LinearAllocator<T>::allocate(size_t)"
+          with
+          [
+              T=int
+          ]
+  		C:\Users\Makovey\VS community\repos\dz12\Source1.cpp(34,15):
+  		см. первую ссылку на "LinearAllocator<int>::allocate" в "main"
+  
+  dz12.vcxproj -> C:\Users\Makovey\VS community\repos\dz12\x64\Debug\dz12.exe
