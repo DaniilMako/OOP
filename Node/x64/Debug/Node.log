@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Makovey\source\repos\Node\main.c(301,19): warning C4244: =: преобразование "int64" в "int", возможна потеря данных
+C:\Users\Makovey\source\repos\Node\main.c(298): error C4700: использована неинициализированная локальная переменная "y"
+C:\Users\Makovey\source\repos\Node\main.c(298): error C4700: использована неинициализированная локальная переменная "x"
