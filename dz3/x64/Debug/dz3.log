@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\Makovey\source\repos\dz3\Source.cpp(64,23): warning C4101: ex: неиспользованная локальная переменная
-C:\Users\Makovey\source\repos\dz3\Source.cpp(92,23): warning C4101: ex: неиспользованная локальная переменная
-  dz3.vcxproj -> C:\Users\Makovey\source\repos\dz3\x64\Debug\dz3.exe
